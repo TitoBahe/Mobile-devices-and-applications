@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sei_la">We opened the app sucessufuly </string>
+    <string name="Main2Activity">Main2Activity</string>
+</resources>
